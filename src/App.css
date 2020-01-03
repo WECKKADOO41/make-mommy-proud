@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+/* .CarouselCard{
+  height: 400px;
+} */
+.CarouselImage > img {
+  object-fit: contain;
+  width: inherit;
+  height: inherit;
+}
+
