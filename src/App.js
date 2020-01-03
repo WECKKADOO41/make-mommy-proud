@@ -59,7 +59,6 @@ function App() {
   const [text, setText] = useState('hello');
   
  
-  
 
   useEffect(() => {
     // performing a GET request
